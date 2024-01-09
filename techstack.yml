@@ -1,0 +1,10 @@
+repo_name: 2lambda123/firewall1
+report_id: 94202e06f6734b998a65f03f4ea49fac
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-09T06:54:08+00:00'
+requested_by: kitchen-porter
+provider: github
+branch: main
+detected_tools_count: 0
+tools: []
